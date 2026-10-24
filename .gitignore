@@ -1,0 +1,42 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/AssistantRunCommand/
+
+# IDE / generated project files
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+
+# Standalone builds and local backups (kept on disk, not in the repo)
+/GUN/
+/Gun02/
+/HardwareInput_backup/
+/TrainingRange_backup/
+/docs/screenshots/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crash / profiler / misc
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.pdb
+*.mdb
